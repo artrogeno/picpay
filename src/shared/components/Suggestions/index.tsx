@@ -12,22 +12,22 @@ const items: Item[] = [
   {
     key: String(Math.random()),
     img: require("../../../images/01.png"),
-    label: "Donation",
+    label: "Recharge",
   },
   {
     key: String(Math.random()),
     img: require("../../../images/02.png"),
-    label: "Donation",
+    label: "Uber",
   },
   {
     key: String(Math.random()),
     img: require("../../../images/03.png"),
-    label: "Donation",
+    label: "Bus",
   },
   {
     key: String(Math.random()),
     img: require("../../../images/04.png"),
-    label: "Donation",
+    label: "Tv",
   },
   {
     key: String(Math.random()),
@@ -37,12 +37,12 @@ const items: Item[] = [
   {
     key: String(Math.random()),
     img: require("../../../images/06.png"),
-    label: "Donation",
+    label: "Barcode",
   },
   {
     key: String(Math.random()),
     img: require("../../../images/07.png"),
-    label: "Donation",
+    label: "Chat",
   },
 ];
 
